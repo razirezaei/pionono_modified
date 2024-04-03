@@ -1,7 +1,7 @@
 
 # Probabilistic Modeling of Inter- and Intra-observer Variability in Medical Image Segmentation
 This is the code of the Pionono model for medical image segmentation (Probabilistic Inter-Observer and iNtra-Observer variation NetwOrk), accepted for
-ICCV 2023. 
+ICCV 2023. This code is slightly different than the original git repo by Arne at https://github.com/arneschmidt/pionono_segmentation as the BACKBONE segmentation model and the fusion parts are different.
 
 ![](Pionono_model.png)
 
